@@ -128,3 +128,4 @@ print(sarasas[-3][2])
 # trecias_zodis = "jums"
 
 # print(trecias_zodis[2])
+#

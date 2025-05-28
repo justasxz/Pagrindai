@@ -64,4 +64,4 @@ sarasas = [5,1,9,45,6,1,6,4,1,5,7,91,23,1,6,43,20,6]
 # print(pagal_laika)
 # print(abs(-5))
 # from operator import attrgetter
-# attrgetter()
+print("Daugiau triuku")
