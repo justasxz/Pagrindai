@@ -22,7 +22,7 @@
 
 # print(suma)
 
-# sudeti visus lyginius skaicius is saraso
+# # sudeti visus lyginius skaicius is saraso
 # skaiciai = [7,4,9,2,4,3,1,5,6,8] # sarasas su skaiciais
 # suma = 0
 
@@ -76,9 +76,9 @@
 # for value in amziai.values(): # values eina per reiksmes
 #     print(value) # isveda visus zodyno raktus
 
-# range - leidzia nustatyti kiek kartu bus kartojamas ciklas
+# # range - leidzia nustatyti kiek kartu bus kartojamas ciklas
 
-# range is esmes tiesiog sukuria sarasa su skaiciais nuo 0 iki n-1 | range(5) - [0,1,2,3,4] | range(5,10) - [5,6,7,8,9] | range(5,10,2) - [5,7,9] | range(10,5,-1) - [10,9,8,7,6] | range(0,-10,-1) - [0,-1,-2,-3,-4,-5,-6,-7,-8,-9]
+# # range is esmes tiesiog sukuria sarasa su skaiciais nuo 0 iki n-1 | range(5) - [0,1,2,3,4] | range(5,10) - [5,6,7,8,9] | range(5,10,2) - [5,7,9] | range(10,5,-1) - [10,9,8,7,6] | range(0,-10,-1) - [0,-1,-2,-3,-4,-5,-6,-7,-8,-9]
 
 # for i in range(5): # range(5) - [0,1,2,3,4] | 5 kartus
 #     print(i) # isveda 0,1,2,3,4
